@@ -1,2 +1,2 @@
 
-print("Hello Nitheesh! Jenkins + GitHub test working 🚀")
+print("Hello Nitheesh! Jenkins + GitHub test working ")
